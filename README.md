@@ -32,7 +32,7 @@
 3. Usecase Diagram
 ![img](RPL/use%20case.drawio.png)
 4. Activity Diagram
-![img](RPL/Activity%20Diagram.png)
+![img](RPL/Activity%20Diagram.jpg)
 5. Sequence Diagram
 ![img](RPL/squence%20diagram.drawio.png)
 
