@@ -34,7 +34,8 @@
 4. Activity Diagram
 ![img](RPL/Activity%20Diagram.jpg)
 5. Sequence Diagram
-![img](RPL/squence%20diagram.drawio.png)
+
+    ![img](RPL/squence%20diagram.drawio.png)
 
 ## Sekian dan Terimakasih< mohon maaf bila banyak kekurangan 🙏🎓😊
 
